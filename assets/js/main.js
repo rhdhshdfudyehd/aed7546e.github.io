@@ -29,7 +29,6 @@
             }
         });
 
-        //>> Project Hover Js Start <<//
         const getSlide = $('.main-box, .box').length - 1;
         const slideCal = 100 / getSlide + '%';
 
@@ -56,8 +55,7 @@
         });
 
         $('._tg_url').click(function (){
-            $(this).attr('href', 'https://t.me/kende_berton');
-            gtag('event', 'conversion', { 'send_to': 'AW-11523346645/cpi4CI6ow_4ZENWh4fYq', 'value': 1.0, 'currency': 'USD' });
+            $(this).attr('href', 'https://t.me/xpfm_wanda');
         });
     });
 })(jQuery);
