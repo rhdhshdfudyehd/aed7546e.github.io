@@ -53,9 +53,5 @@
             $("html, body").animate({ scrollTop: 0 }, 800);
             return false;
         });
-
-        $('._tg_url').click(function (){
-            $(this).attr('href', 'https://t.me/xpfm_wanda');
-        });
     });
 })(jQuery);
